@@ -1,15 +1,17 @@
 {
     "name": "oreo/operation-log",
-    "alias": "",
     "description": "操作日志",
     "type": "library",
-    "keywords": ["dcat-admin", "extension"],
-    "homepage": "https://github.com/oreo/operation-log",
+    "keywords": [
+        "dcat-admin",
+        "extension"
+    ],
+    "homepage": "https://github.com/pandaOreo/operation-log",
     "license": "MIT",
     "authors": [
         {
-            "name": "your name",
-            "email": "your email"
+            "name": "pandaOreo",
+            "email": "819023279@qq.com"
         }
     ],
     "require": {
